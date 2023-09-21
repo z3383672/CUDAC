@@ -1,3 +1,4 @@
+%%writefile vector_add.cu
 #include <iostream>
 #include <vector>
 
